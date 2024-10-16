@@ -1,0 +1,16 @@
+h1 {
+    font-size: 28px;
+   text-align: center;
+    padding: 0;
+    margin: 0;}
+#anh {
+    width: 500px;
+    height: 600px;
+    left: 50px;
+    margin-left: -50px;
+    margin-right: 100px ;
+}
+:root { --mau-lgbt: violet;}
+h1:hover{
+    color: var(--mau-lgbt);
+}
